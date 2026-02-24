@@ -1,0 +1,8 @@
+[package]
+name = "symbolic"
+version = "0.2.0"
+edition = "2021"
+description = "Computer Algebra System in pure Rust — symbolic math, differentiation, simplification"
+license = "MIT"
+
+[dependencies]
